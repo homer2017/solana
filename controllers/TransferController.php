@@ -1,6 +1,5 @@
 <?php
 namespace Controllers;
-
 use Models\Affiliate;
 
 class TransferController {
